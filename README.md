@@ -1,6 +1,7 @@
 # DCIT_205_IA
 # Computer Science Website Readme
 ID; 11236716
+
 Welcome to the Computer Science Resource Hub! This website is designed to serve as a comprehensive resource for computer science enthusiasts, students, and professionals. Whether you're exploring programming languages, algorithms, or the latest advancements in technology, this hub aims to provide valuable insights and educational content.
 
  Clone and Setup Instructions
