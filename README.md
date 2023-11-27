@@ -31,3 +31,7 @@ Throughout the development of this project, I gained valuable insights and skill
   - This project boosted my enhancing problem-solving skills.
 - Community Engagement:
   - Engaged with the computer science community, learned from feedback, and contributed to a collaborative learning environment.
+ ![homepage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/6068fbe0-3519-4bd3-85cc-dfd45904e461)
+
+  - ![homepage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/b800c1ec-c855-4f99-8e2f-bfcbfe3053b5)
+
