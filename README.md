@@ -31,7 +31,21 @@ Throughout the development of this project, I gained valuable insights and skill
   - This project boosted my enhancing problem-solving skills.
 - Community Engagement:
   - Engaged with the computer science community, learned from feedback, and contributed to a collaborative learning environment.
- ![homepage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/6068fbe0-3519-4bd3-85cc-dfd45904e461)
 
   - ![homepage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/b800c1ec-c855-4f99-8e2f-bfcbfe3053b5)
 
+
+![about page](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/d882edce-43c6-44df-a90a-78063517b970)
+
+![admissionpage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/bfa4a34f-d6fc-4cc7-b8de-b355c9c9cca9)
+![registration page](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/c7e50a81-3d21-4089-9bcb-e5ac59356952)
+![programpage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/c29c971e-f5f0-42fa-a9c8-9b29196260c9)
+![facultypage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/b53e8c3e-afcd-4644-b05e-122f93513121)
+
+![Cybersecurity](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/eda04c71-416e-45d3-8dec-0dbd39167842)
+
+![datascience](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/7fb55d20-b6ed-44e9-9579-fcd0a6d19df6)
+![softwarepage](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/cd2ead71-7658-4206-8a5b-b2312b2d34bb)
+
+
+![networking](https://github.com/Levinkrumah/11236716_DCIT205/assets/152205122/a6ada5c1-0741-41f7-b466-1e55dab52355)
